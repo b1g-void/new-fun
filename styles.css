@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: sans-serif;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    background-color: yellow;
+}
+a:visited {
+    color: black;
+}
